@@ -37,10 +37,10 @@ _Si no quieres usar la terminal puedes usar una de las siguientes interfaces gr√
 
 ## Vistas 
 
- *Desktop*
+### Desktop
   <img src="assets/destokp.png"/>
 
- *Mobile*
+### Mobile
   <img src="assets/mobile.png" width="480" height="720"/>
 
 
