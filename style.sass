@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:400,700|Roboto&display=swap');
+
+body {
+    marg:0;
+    padding:0:
+    }
+.header 
+{
+	  width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    height: 7em;
+    grid-gap: 1em;
+
+	 &__nav {
+			height: 7em ;
+			grid-column: 1;
+			display: flex;
+			align-items: flex-end;
+			margin-left: 2em;
+			padding: -.3em;
+			border-bottom: solid .1em #cc0066;	
+	 }
+	 &__nav button {
+			width: 6em;
+			height: 7em;
+			margin-left: 16px;
+			background-color: inherit;
+			border: none;
+			font-family: 'Roboto';
+			font-size: 1.2em;
+			padding-top: 1.6em;
+		}
+		&__nav button:hover {
+			border-bottom: solid .2em #cc0066;
+			padding-bottom: 0;
+			padding-top: 1.7em;
+			margin-bottom: 0;
+			color: #cc0066;
+		}
+		&__nav button:focus {
+			outline: none;
+		}
+		&__user {
+			grid-column: 2;
+			font-family: 'Roboto';
+			font-size: 1.4em;
+			color: gray;
+			display: flex;
+			align-items: center;
+			justify-content: flex-end;
+			margin-right: 8em;	
+		}
+}
+
+.section 
+{
+    width:100%;
+    height: 38em;
+    display: grid;
+    grid-template-columns: 1fr 1fr;	
+
+		&__about {
+			grid-column: 1;
+			margin-left: 4em;
+			align-self: center;
+		}
+		&__about p {
+			font-family: 'Lato';
+			font-size: 48px;
+			margin: 0;
+			color: gray;
+		}
+		&__about p strong {
+			 color: black;
+		}
+		&__about p strong.quis {
+			color: #cc0066;
+		}
+		&__about button {
+			
+		}
+}
