@@ -109,4 +109,34 @@ body {
   color: gray;
 }
 
+@media (max-width: 980px) {
+  .header {
+    display: inline;
+  }
+  .header__nav {
+    display: none;
+  }
+  .header__user {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    margin: 1em 0 1em 0.2em;
+    border-bottom: 2px solid #cc0066;
+  }
+
+  .section {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+  }
+  .section__about {
+    margin: 1em 4em 1em 4em;
+  }
+  .section__product img {
+    width: 100%;
+  }
+}
+
 /*# sourceMappingURL=styles.css.map */

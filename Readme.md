@@ -1,9 +1,8 @@
-# Malabareando 
+# Malabareando 🤹
 
-Esta es una landing page sencilla pero con lo necesario para poner una descripción y mostrar tu producto, causa una buena primera impresión a tus clientes.
-Es responsive así que puedes verla en todos los dispositivos.
-Es un proyecto que sigue en desarrollo proximamente habrá mas features 🔥.
-Utiliza Sass como preprocesador.
+Esta es una landing page sencilla pero con lo necesario para poner una descripción y mostrar tu producto, además de usar un preprocesador (Sass) para mejorar la developer experience, causa una buena primera impresión a tus clientes y una gran user experience.
+
+Es un proyecto que sigue en desarrollo proximamente habrá mas features 🔥, dale una estrella para enterarte!.
 
 ## Comenzando 🚀
 
