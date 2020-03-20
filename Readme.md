@@ -34,13 +34,21 @@ _ Si no quieres usar la terminal puedes usar una de las siguientes interfaces gr
 * [Prepos](https://prepros.io) - Disponible para Windows, Linux y Mac OS
 * [KodeKit](https://codekitapp.com) - Disponible solo para Mac Os
 
+##Vistas 
+###Desktop
+ <img src="assets/destokp.png"/>
+ ###Mobile
+ <img src="assets/mobile.png"/>
+
+
+
 
 ## Construido con 🛠️
 
 _Estas son las herramientas utilizadas en este proyecto_
 
 * [Sass](https://sass-lang.com) - Uno de los preprocesadores más usados en la industria
-* [HTML](https://maven.apache.org/) - Manejador de dependencias
+
 
 
 ## Autor
@@ -48,6 +56,6 @@ _Estas son las herramientas utilizadas en este proyecto_
 
 * **Humberto López**  - [HumbertoMLL](https://github.com/humbertomll)
  
-*** Dale una estrellita para que puedas enterarte de las prómixas actualizaciones  
+### Dale una estrellita para que puedas enterarte de las prómixas actualizaciones  
 ---
 ⌨️ con ❤️ por 💥[HumbertoMLL](https://github.com/humbertomll) 💥
