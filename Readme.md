@@ -39,7 +39,7 @@ _Si no quieres usar la terminal puedes usar una de las siguientes interfaces grÃ
 ### Desktop
  <img src="assets/destokp.png"/>
 ### Mobile
- <img src="assets/mobile.png"/>
+ <img src="assets/mobile.png" width="560" height="315"/>
 
 
 
