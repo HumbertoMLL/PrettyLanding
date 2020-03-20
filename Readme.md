@@ -4,6 +4,8 @@ Esta es una landing page sencilla pero con lo necesario para poner una descripci
 
 Es un proyecto que sigue en desarrollo proximamente habrá mas features 🔥, dale una estrella para enterarte!.
 
+Puedes verlo aquí: https://humbertomll.github.io/PrettyLanding
+
 ## Comenzando 🚀
 
 _Puedes descargar el .zip o hacer un fork de este proyecto y abrir el index.html desde tus archivos. Espera proximas actualizaciones que añadirán scripts para correr el proyecto en un servidor de desarrollo local._
