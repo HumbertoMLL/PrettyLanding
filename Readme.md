@@ -29,15 +29,16 @@ _Cuando hagas cambios no olvides pasar tu archivo .scss a .css desde la terminal
 sass ej.scss ej-compilado.css
 ```
 
-_ Si no quieres usar la terminal puedes usar una de las siguientes interfaces gráficas:_
+_Si no quieres usar la terminal puedes usar una de las siguientes interfaces gráficas:_
 
 * [Prepos](https://prepros.io) - Disponible para Windows, Linux y Mac OS
 * [KodeKit](https://codekitapp.com) - Disponible solo para Mac Os
 
-##Vistas 
-###Desktop
+
+## Vistas 
+### Desktop
  <img src="assets/destokp.png"/>
- ###Mobile
+### Mobile
  <img src="assets/mobile.png"/>
 
 
